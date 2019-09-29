@@ -1,0 +1,72 @@
+a[href^="mailto"] {
+    background: url(images/6.jpg) no-repeat 0 3px;
+    padding-left: 1em; 
+}
+
+a[href^="tel"] {
+    background: url(images/6.jpg) no-repeat 0 3px;
+    padding-left: 1em; 
+}
+
+.tag{
+	background-color: #333333;
+    padding: 0.5em 0em 0.5em 60em;
+}
+
+header{
+	background-color:#003366;
+	padding: 0.5em 0em 0.5em 5em;
+	font-size: 30px;
+	color: #FFFFFF;
+}
+
+ul{
+	background-color:#C0C0C0;
+	padding: 0.5em 0em 2em 10em;
+}
+
+li{
+	list-style:none; 
+	float:left;
+}
+.center{
+	text-align: center;
+}
+.aa{
+	margin: 2em 36em 1em 35em;
+	padding: 0em;
+	border:1px solid #C8C8C8;
+}
+
+.detail{
+	background: #FFFFFF;
+	margin: 1em 5em 0.5em 5em;
+	padding: 0em;
+	border:1px solid #000000;
+}
+h2{
+	background-color:#003366;
+	padding: 0.5em;
+	color: #FFFFFF;
+}
+
+.content{
+	padding: 0.5em;
+}
+
+span{
+	color: #C0C0C0;
+	font-style: italic;
+}
+
+.email{
+	background-color:#003333;
+	padding: 0.5em;
+}
+
+footer{
+	color: white;
+    background-color: #3D6271;
+    margin: 1em 5em 0.5em 5em; 
+    padding: 1em;
+}

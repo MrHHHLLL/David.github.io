@@ -1,0 +1,62 @@
+#wrapper1 {
+    font-size: 1.6em; 
+    background-image:url('images/bg-2.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 690px;
+    position: relative;
+    -webkit-background-size: cover;
+    text-align: center;
+}
+
+.u{
+	margin: 0em 0em 0.5em 30em;
+	padding: 2em 0em;
+}
+
+.l{
+	display: inline;
+	font-size: 0.6em;
+	white-space:pre-wrap;
+}
+
+.font-1{
+	color: #B0C4DE;
+	font-style:italic;
+}
+
+.wrapper2 {
+	background: #FFFFFF;
+	margin: 5em 5em 0.5em 5em;
+	padding: 0em 5em;
+}
+
+a:link {
+    text-decoration: none
+}
+
+h1 {
+	
+}
+
+h2 {
+	color: white; 
+    background-color: #003D79; 
+    padding: 0.5em;
+}
+
+.layout {
+	padding: 0.5em 5em;
+}
+
+.layout1 {
+	padding: 0em 3em;
+}
+table {
+	float: right;
+}
+
+footer {
+   background-color: #3D6271;
+   padding: 0.5em;
+}

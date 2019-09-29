@@ -1,0 +1,40 @@
+header, footer {
+    color: white;
+    background-color: #3D6271;
+    margin: 0em 4em 0em 4em; 
+    padding: 1em;
+}
+
+body{
+    background-color:#003333;
+}
+
+h1{
+	font-size: 30px;
+}
+}
+.aa{
+	 border:1px solid #C8C8C8;
+	 margin: 0.5em;
+	 padding: 0.5em;
+	 width:34%;
+}
+.guide{
+	background-color: #C0C0C0;
+    margin: 0em 4em 3em 4em; 
+    padding: 0.5em;
+}
+
+.content{
+	background-color: #FFFFFF;
+    margin: 0em 4em 3em 4em; 
+    padding: 0.5em;
+}
+
+.font-1{
+	color: #C0C0C0
+}
+
+.share{
+	background-color:#C0C0C0; 
+}
