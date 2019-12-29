@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24319e4b-44d6-4c77-a517-07e58fc1f7de" name="Default Changelist" comment="" />
+    <list default="true" id="9b5c6548-0634-44bf-aa0e-8c835ab307f8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="1TS4OOxGfX4orx1kdGFYzRTWn4B" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1UBEoJQe9LGPUXi1syl1kiAblDv" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,30 +41,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="24319e4b-44d6-4c77-a517-07e58fc1f7de" name="Default Changelist" comment="" />
-      <created>1573440129609</created>
+      <changelist id="9b5c6548-0634-44bf-aa0e-8c835ab307f8" name="Default Changelist" comment="" />
+      <created>1574821761332</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573440129609</updated>
-      <workItem from="1573440132941" duration="229000" />
-      <workItem from="1577614276737" duration="22000" />
+      <updated>1574821761332</updated>
+      <workItem from="1574821762598" duration="9770000" />
+      <workItem from="1575254403210" duration="2585000" />
+      <workItem from="1575372531950" duration="447000" />
+      <workItem from="1575438823124" duration="2288000" />
+      <workItem from="1575441922902" duration="4552000" />
+      <workItem from="1575459368237" duration="147000" />
+      <workItem from="1575801569167" duration="602000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
